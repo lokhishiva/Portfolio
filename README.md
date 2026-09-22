@@ -1,4 +1,4 @@
-# Shivam Singh Patel - Personal Portfolio
+# Shivam Singh Patel -  Portfolio
 
 A sleek, modern developer portfolio showcasing academic qualifications, certified professional internships, and live production deployments.
 
