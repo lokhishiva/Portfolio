@@ -352,3 +352,8 @@ footer {
     .section-title { font-size: 1.6rem; }
     .contact-buttons { flex-direction: column; }
 }
+/* Active state applied by the scroll-spy inside app.js */
+.nav-links a.active {
+    color: var(--accent);
+    font-weight: 600;
+}
